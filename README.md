@@ -1,1 +1,2 @@
-# Praktikum-Metkom_3-2025
+#hari ini belajar git dan github
+##masih bingung
